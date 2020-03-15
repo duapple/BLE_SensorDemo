@@ -1,0 +1,9 @@
+.\use_ota_servicemanager\objects\vl53l1x_api.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\core\VL53L1X_api.c
+.\use_ota_servicemanager\objects\vl53l1x_api.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\core\VL53L1X_api.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\platform\vl53l1_platform.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\platform\vl53l1_types.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\use_ota_servicemanager\objects\vl53l1x_api.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

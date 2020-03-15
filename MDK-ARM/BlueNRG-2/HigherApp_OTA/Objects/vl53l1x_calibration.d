@@ -1,0 +1,10 @@
+.\higherapp_ota\objects\vl53l1x_calibration.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\core\VL53L1X_calibration.c
+.\higherapp_ota\objects\vl53l1x_calibration.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\core\VL53L1X_api.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\platform\vl53l1_platform.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\platform\vl53l1_types.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\higherapp_ota\objects\vl53l1x_calibration.o: ..\..\..\..\..\Library\SDK_Eval_BlueNRG1\src\VL53L1X_UltraLite\core\VL53L1X_calibration.h

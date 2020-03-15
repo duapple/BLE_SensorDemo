@@ -1,0 +1,13 @@
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BlueNRG1_BlueVoice_Library\Src\bluevoice_adpcm_bnrg1.c
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BlueNRG1_BlueVoice_Library\Inc\bluevoice_adpcm_bnrg1.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\ble_const.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\Bluetooth_LE\inc\ble_status.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\Bluetooth_LE\inc\bluenrg1_api.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\bluenrg1_hal.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\bluenrg1_gap.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\link_layer.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\bluenrg1_gatt_server.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\hal\inc\compiler.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: ..\..\..\..\..\Library\BLE_Application\layers_inc\sm.h
+.\use_ota_servicemanager\objects\bluevoice_adpcm_bnrg1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
